@@ -6,3 +6,4 @@ I liked this meme because i am a fan of MR. Bean.
 
 AS of now none.
 
+(https://desiree.rbind.io) this link explained in detail about the besic concepts of R, R markdown and how to apply it by creating tiny projects.
